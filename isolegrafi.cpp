@@ -137,6 +137,6 @@ int main()
         
         cout << "city " << item.first << " island " << item.second << endl;
     }
-    cout<<islandCounter<<endl;
+    cout << "Islands " << islandCounter << endl;
 
 }
